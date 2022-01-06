@@ -28,6 +28,7 @@ h2{font-size: 40px;}
     margin-right: 5%;
     padding-left:2%;
     box-shadow: 10px 10px 30px gray;
+ 
 }
 .half-width img{
     width: 100%;
@@ -58,6 +59,15 @@ h2{font-size: 40px;}
     background-repeat: no-repeat;
     background-position: left;
     margin: 0;
+  
+}
+#web-dev{
+    border-left: 7px solid;
+    border-image:linear-gradient(blue,cyan);
+    border-image-slice: 15;
+}
+footer p{
+    text-align: center;
 
 }
 
